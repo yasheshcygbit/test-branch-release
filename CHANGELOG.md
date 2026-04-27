@@ -1,3 +1,10 @@
+# [1.0.0-alpha.3](https://github.com/yasheshcygbit/test-branch-release/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2026-04-27)
+
+
+### Features
+
+* **string:** add lowercase helper ([#3](https://github.com/yasheshcygbit/test-branch-release/issues/3)) ([18aa018](https://github.com/yasheshcygbit/test-branch-release/commit/18aa01808d8c27ee6a5a8c6923bbfe3d0ef2b59a))
+
 # [1.0.0-alpha.2](https://github.com/yasheshcygbit/test-branch-release/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2026-04-27)
 
 
