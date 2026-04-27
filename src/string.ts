@@ -10,3 +10,7 @@ export function reverse(str: string): string {
 export function slugify(str: string): string {
   return str.toLowerCase().trim().replace(/\s+/g, '-');
 }
+
+export function uppercase(str: string): string {
+  return str.toUpperCase();
+}
