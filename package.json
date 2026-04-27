@@ -1,6 +1,6 @@
 {
   "name": "test-branch-release",
-  "version": "1.0.0-alpha.5",
+  "version": "1.0.0-alpha.6",
   "description": "Test repository for validating the trunk-based release strategy with release/* branches.",
   "private": true,
   "license": "UNLICENSED",

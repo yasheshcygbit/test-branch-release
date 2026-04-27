@@ -1,3 +1,10 @@
+# [1.0.0-alpha.6](https://github.com/yasheshcygbit/test-branch-release/compare/v1.0.0-alpha.5...v1.0.0-alpha.6) (2026-04-27)
+
+
+### Bug Fixes
+
+* **string:** lowercase remainder in capitalize ([#6](https://github.com/yasheshcygbit/test-branch-release/issues/6)) ([74a3887](https://github.com/yasheshcygbit/test-branch-release/commit/74a388769197295b05a93322ca3cbc826aed176e))
+
 # [1.0.0-alpha.5](https://github.com/yasheshcygbit/test-branch-release/compare/v1.0.0-alpha.4...v1.0.0-alpha.5) (2026-04-27)
 
 
