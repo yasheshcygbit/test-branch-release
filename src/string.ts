@@ -14,3 +14,7 @@ export function slugify(str: string): string {
 export function uppercase(str: string): string {
   return str.toUpperCase();
 }
+
+export function lowercase(str: string): string {
+  return str.toLowerCase();
+}
