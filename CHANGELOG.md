@@ -1,3 +1,10 @@
+# [1.0.0-alpha.4](https://github.com/yasheshcygbit/test-branch-release/compare/v1.0.0-alpha.3...v1.0.0-alpha.4) (2026-04-27)
+
+
+### Bug Fixes
+
+* **string:** strip non-alphanumerics in slugify ([#4](https://github.com/yasheshcygbit/test-branch-release/issues/4)) ([000a112](https://github.com/yasheshcygbit/test-branch-release/commit/000a1129b4bb0537e3ba6dc23d714a13a85ae16e))
+
 # [1.0.0-alpha.3](https://github.com/yasheshcygbit/test-branch-release/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2026-04-27)
 
 
