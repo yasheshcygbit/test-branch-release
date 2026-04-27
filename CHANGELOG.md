@@ -1,3 +1,10 @@
+# [1.0.0-alpha.5](https://github.com/yasheshcygbit/test-branch-release/compare/v1.0.0-alpha.4...v1.0.0-alpha.5) (2026-04-27)
+
+
+### Features
+
+* **string:** add repeat helper ([#5](https://github.com/yasheshcygbit/test-branch-release/issues/5)) ([fa819a2](https://github.com/yasheshcygbit/test-branch-release/commit/fa819a2226783f0bb394aafee2f0a6af83bb3b71))
+
 # [1.0.0-alpha.4](https://github.com/yasheshcygbit/test-branch-release/compare/v1.0.0-alpha.3...v1.0.0-alpha.4) (2026-04-27)
 
 
