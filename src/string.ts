@@ -18,3 +18,7 @@ export function uppercase(str: string): string {
 export function lowercase(str: string): string {
   return str.toLowerCase();
 }
+
+export function repeat(str: string, n: number): string {
+  return str.repeat(n);
+}
