@@ -18,6 +18,7 @@ export function uppercase(str: string): string {
 }
 
 export function lowercase(str: string): string {
+  if (!str) return str;
   return str.toLowerCase();
 }
 
