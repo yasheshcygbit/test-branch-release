@@ -4,6 +4,7 @@ export function capitalize(str: string): string {
 }
 
 export function reverse(str: string): string {
+  if (!str) return str;
   return str.split('').reverse().join('');
 }
 
