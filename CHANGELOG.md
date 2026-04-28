@@ -1,3 +1,10 @@
+## [1.1.1-alpha.2](https://github.com/yasheshcygbit/test-branch-release/compare/v1.1.1-alpha.1...v1.1.1-alpha.2) (2026-04-28)
+
+
+### Bug Fixes
+
+* **string:** null safety in uppercase ([#8](https://github.com/yasheshcygbit/test-branch-release/issues/8)) ([d5850f2](https://github.com/yasheshcygbit/test-branch-release/commit/d5850f2babdeb6af7408729f8781b4bcdf197e4f))
+
 ## [1.1.1-alpha.1](https://github.com/yasheshcygbit/test-branch-release/compare/v1.1.0...v1.1.1-alpha.1) (2026-04-28)
 
 
