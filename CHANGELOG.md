@@ -1,3 +1,10 @@
+## [1.1.1-alpha.3](https://github.com/yasheshcygbit/test-branch-release/compare/v1.1.1-alpha.2...v1.1.1-alpha.3) (2026-04-28)
+
+
+### Bug Fixes
+
+* **string:** null safety in lowercase ([#9](https://github.com/yasheshcygbit/test-branch-release/issues/9)) ([7c4d31b](https://github.com/yasheshcygbit/test-branch-release/commit/7c4d31bf2f25704d0183eb1daaf25c3fca4215e9))
+
 ## [1.1.1-alpha.2](https://github.com/yasheshcygbit/test-branch-release/compare/v1.1.1-alpha.1...v1.1.1-alpha.2) (2026-04-28)
 
 
