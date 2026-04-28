@@ -23,6 +23,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Activate the merge=ours driver so .gitattributes rules on
+          # package.json and CHANGELOG.md auto-resolve in CI.
+          git config merge.ours.driver true
 
       - name: Merge main into dev
         run: |
