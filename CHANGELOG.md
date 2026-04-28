@@ -1,3 +1,10 @@
+## [1.1.1-alpha.1](https://github.com/yasheshcygbit/test-branch-release/compare/v1.1.0...v1.1.1-alpha.1) (2026-04-28)
+
+
+### Bug Fixes
+
+* **string:** null safety in reverse ([#7](https://github.com/yasheshcygbit/test-branch-release/issues/7)) ([5454f75](https://github.com/yasheshcygbit/test-branch-release/commit/5454f75e67a33827f1c1f976fd360b2c6a8bb641))
+
 # [1.1.0](https://github.com/yasheshcygbit/test-branch-release/compare/v1.0.1...v1.1.0) (2026-04-28)
 
 
